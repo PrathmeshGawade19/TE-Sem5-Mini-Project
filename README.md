@@ -1,5 +1,5 @@
 #TE-Sem5-Mini-Project
-Virtual Painter
+#Virtual Painter
 Project Overview
 The Virtual Painter is an interactive drawing application that uses hand-tracking technology to allow users to create digital art simply by moving their hands. Built with Python, OpenCV, MediaPipe, and NumPy, this project enables real-time drawing on a virtual canvas, making it a fun and creative tool for users of all ages.
 

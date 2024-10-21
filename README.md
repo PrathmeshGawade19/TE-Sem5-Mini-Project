@@ -7,6 +7,7 @@ The Virtual Painter is an interactive drawing application that uses hand-trackin
 Features
 
 Hand Tracking: Utilizes MediaPipe to detect hand movements and gestures, allowing intuitive drawing and interaction.
+
 Brush and Eraser: Choose between different brush sizes and an eraser tool to create or remove drawings easily.
 Color Selection: Offers a palette of colors to choose from, enabling users to customize their artwork.
 Clear Canvas: A one-click option to reset the canvas and start a new drawing.

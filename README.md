@@ -28,6 +28,4 @@ Two Fingers Up: Erase with the eraser tool.
 Select colors and brush sizes using the on-screen buttons.
 Click the clear button to reset the canvas.
 
-Contributing
-
-If you'd like to contribute to the Virtual Painter project, feel free to fork the repository and submit a pull request. Any feedback or suggestions are also welcome!
+Any feedback or suggestions are also welcome!

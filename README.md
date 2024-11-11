@@ -1,4 +1,4 @@
-#TE-Sem5-Mini-Project - Virtual Painter
+# **TE-Sem5-Mini-Project - Virtual Painter**
 
 Project Overview
 

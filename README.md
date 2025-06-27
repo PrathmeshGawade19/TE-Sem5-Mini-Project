@@ -1,4 +1,4 @@
-# Virtual Painter – TE Sem 5 Mini Project
+# Virtual Painter – Sem 5 Mini Project
 
 An interactive hand-tracking drawing application that lets users paint on a virtual canvas using just their fingers and gestures. Built with Python, OpenCV, MediaPipe, and NumPy, this real-time tool combines creativity with computer vision for a fun and intuitive experience.
 
@@ -32,10 +32,9 @@ An interactive hand-tracking drawing application that lets users paint on a virt
 3. **Select tools** using on-screen buttons:
    - Choose brush color & size
    - Click "Clear" to reset the canvas
-   - 
 ---
 
 ## Contributions & Feedback
 
-This project was built as part of the **TE Sem 5 Mini Project**.  
+This project was built as part of the **Sem 5 Mini Project**.  
 Feel free to suggest improvements, report bugs, or contribute!

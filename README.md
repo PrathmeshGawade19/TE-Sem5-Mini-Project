@@ -1,31 +1,41 @@
-# **TE-Sem5-Mini-Project - Virtual Painter**
+# Virtual Painter – TE Sem 5 Mini Project
 
-Project Overview
+An interactive hand-tracking drawing application that lets users paint on a virtual canvas using just their fingers and gestures. Built with Python, OpenCV, MediaPipe, and NumPy, this real-time tool combines creativity with computer vision for a fun and intuitive experience.
 
-The Virtual Painter is an interactive drawing application that uses hand-tracking technology to allow users to create digital art simply by moving their hands. Built with Python, OpenCV, MediaPipe, and NumPy, this project enables real-time drawing on a virtual canvas, making it a fun and creative tool for users of all ages.
+---
 
-Features
+## Features
 
-Hand Tracking: Utilizes MediaPipe to detect hand movements and gestures, allowing intuitive drawing and interaction.
-Brush and Eraser: Choose between different brush sizes and an eraser tool to create or remove drawings easily.
-Color Selection: Offers a palette of colors to choose from, enabling users to customize their artwork.
-Clear Canvas: A one-click option to reset the canvas and start a new drawing.
-Responsive UI: Interactive buttons for color selection, pen size adjustments, and toggling the visibility of the canvas and tools.
+- **Hand Tracking**: Detects hand gestures using MediaPipe for natural drawing input.
+- **Brush & Eraser**: Toggle between multiple brush sizes or erase parts of your drawing.
+- **Color Palette**: Choose from a variety of colors to customize your artwork.
+- **Clear Canvas**: One-click option to reset the canvas.
+- **Interactive UI**: On-screen buttons for tool selection, brush size, and canvas control.
 
-Technologies Used
+---
 
-Python: The programming language used for developing the application.
-OpenCV: A library for computer vision that helps with image processing and video capturing.
-MediaPipe: Used for hand detection and tracking, enabling real-time interaction.
-NumPy: A library for numerical operations, essential for handling image data.
+## Technologies Used
 
-Usage
+- **Python** – Core programming language  
+- **OpenCV** – Image processing & webcam handling  
+- **MediaPipe** – Real-time hand detection and tracking  
+- **NumPy** – Efficient array operations for image manipulation  
 
-Launch the application, and a window will open displaying your webcam feed.
-Use your fingers to draw on the canvas:
-Index Finger Up: Draw with the selected brush color.
-Two Fingers Up: Erase with the eraser tool.
-Select colors and brush sizes using the on-screen buttons.
-Click the clear button to reset the canvas.
+---
 
-Any feedback or suggestions are also welcome!
+## How to Use
+
+1. **Run the script** – The webcam feed will open.
+2. **Start Drawing** using your fingers:
+   - **Index Finger Up** → Draw with selected color
+   - **Two Fingers Up** → Use the eraser
+3. **Select tools** using on-screen buttons:
+   - Choose brush color & size
+   - Click "Clear" to reset the canvas
+   - 
+---
+
+## Contributions & Feedback
+
+This project was built as part of the **TE Sem 5 Mini Project**.  
+Feel free to suggest improvements, report bugs, or contribute!
